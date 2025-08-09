@@ -31,6 +31,7 @@
       <n-p depth="3">
         Copyright &copy; 2025 
         <n-text depth="3" @click="jumpLink(linkData.home)"> Ad_closeNN </n-text>
+        .
         <n-text
           v-if="siteIcp"
           depth="3"

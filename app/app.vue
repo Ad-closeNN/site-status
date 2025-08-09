@@ -1,3 +1,5 @@
+import { useHead } from '#imports' // 不知道有没有用
+
 <template>
   <GlobalProvider>
     <n-scrollbar
