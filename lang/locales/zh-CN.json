@@ -36,7 +36,7 @@
       "stop": "暂停检测",
       "unknown": "还未检查",
       "pause": "暂停检测",
-      "normal": "正常访问",
+      "normal": "正常",
       "error": "站点异常",
       "down": "无法访问"
     },

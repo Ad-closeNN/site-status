@@ -29,7 +29,7 @@
         {{ $t("footer.interface") }}
       </n-p>
       <n-p depth="3">
-        &copy; 2025 
+        Copyright &copy; 2025 
         <n-text depth="3" @click="jumpLink(linkData.home)"> Ad_closeNN </n-text>
         <n-text
           v-if="siteIcp"
